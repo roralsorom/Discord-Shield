@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "phash": "p:c1e0e1c7981f0e7e",
+      "size": 91676,
+      "size_tolerance": 5120,
+      "hash_tolerance": 4
+    },
+    {
+      "phash": "p:f54a0ce6b54a253d",
+      "size": 93397,
+      "size_tolerance": 5120,
+      "hash_tolerance": 4
+    },
+    {
+      "phash": "p:914e4f94ce4bb4b4",
+      "size": 85334,
+      "size_tolerance": 5120,
+      "hash_tolerance": 4
+    },
+    {
+      "phash": "p:c5ba36c9caa4318f",
+      "size": 97421,
+      "size_tolerance": 5120,
+      "hash_tolerance": 4
+    }
+  ],
+  "text_patterns": null
+}
