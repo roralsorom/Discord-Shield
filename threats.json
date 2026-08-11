@@ -2,27 +2,43 @@
   "images": [
     {
       "phash": "p:c1e0e1c7981f0e7e",
-      "size": 91676,
-      "size_tolerance": 5120,
-      "hash_tolerance": 4
+      "hash_tolerance": 20,
+      "note": "image.jpg"
     },
     {
       "phash": "p:f54a0ce6b54a253d",
-      "size": 93397,
-      "size_tolerance": 5120,
-      "hash_tolerance": 4
+      "hash_tolerance": 20,
+      "note": "image2.jpg"
     },
     {
       "phash": "p:914e4f94ce4bb4b4",
-      "size": 85334,
-      "size_tolerance": 5120,
-      "hash_tolerance": 4
+      "hash_tolerance": 20,
+      "note": "image3.jpg"
     },
     {
       "phash": "p:c5ba36c9caa4318f",
-      "size": 97421,
-      "size_tolerance": 5120,
-      "hash_tolerance": 4
+      "hash_tolerance": 20,
+      "note": "image4.jpg"
+    },
+    {
+      "phash": "p:c3e1c71e3c3c3ca1",
+      "hash_tolerance": 20,
+      "note": "s1.jpg"
+    },
+    {
+      "phash": "p:f56a4b0497b74b24",
+      "hash_tolerance": 20,
+      "note": "s2.jpg"
+    },
+    {
+      "phash": "p:b44b6bb44a49a6b6",
+      "hash_tolerance": 20,
+      "note": "s3.jpg"
+    },
+    {
+      "phash": "p:954a68dacc97b1b1",
+      "hash_tolerance": 20,
+      "note": "s4.jpg"
     }
   ],
   "text_patterns": null
